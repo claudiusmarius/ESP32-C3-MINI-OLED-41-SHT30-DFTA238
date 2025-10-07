@@ -14,7 +14,7 @@ Il inclut une interface de **saisie Wi-Fi à trois boutons physiques**, un affic
 - 🕒 **Affichage horaire synchronisé NTP**
   - Changement automatique heure d’été / heure d’hiver (Europe)
 - 🌡️ **Lecture de température via capteur SHT30**
-  - Lecture I²C avec adresse `0x45`
+  - Liaison I²C avec adresse `0x45`
 - 📶 **Saisie Wi-Fi par boutons**
   - 3 boutons : UP / NEXT / OK
   - Sauvegarde SSID et mot de passe en NVS
