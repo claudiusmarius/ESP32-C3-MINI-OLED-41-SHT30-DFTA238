@@ -16,7 +16,7 @@ Il inclut une interface de **saisie Wi-Fi à trois boutons physiques**, un affic
 - 🌡️ **Lecture de température via capteur SHT30**
   - Liaison I²C avec adresse `0x45`
 - 📶 **Saisie Wi-Fi par boutons**
-  - 3 boutons : UP / NEXT / OK
+  - 3 boutons : "UP" / "NEXT" / "OK"
   - Sauvegarde SSID et mot de passe en NVS
 - 💬 **Messages contextuels**
   - “OK pour config” / “NO GOOD!” / “Appui long…” / “Décompte 12s”
