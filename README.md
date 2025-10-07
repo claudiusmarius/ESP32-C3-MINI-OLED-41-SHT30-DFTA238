@@ -3,7 +3,7 @@ ESP32 C OLED INTEGRE SHT30
 
 # Thermomètre connecté ESP32-C3 avec écran OLED 0.42" intégré
 
-Ce projet repose sur le microcontrôleur **ESP32-C3** avec **écran OLED 0.42" intégré**, capable d’afficher en temps réel **l’heure synchronisée NTP** et la **température ambiante** mesurée via un **capteur SHT30**.
+Ce projet repose sur le microcontrôleur **ESP32-C3** avec **écran OLED 0.42" intégré**, capable d’afficher en temps réel **l’heure synchronisée NTP** et la **température ambiante** lue via un **capteur SHT30**.
 
 Il inclut une interface de **saisie Wi-Fi à trois boutons physiques**, un affichage **fenestré optimisé**, et une **gestion automatique du passage heure d’été / heure d’hiver**.
 
